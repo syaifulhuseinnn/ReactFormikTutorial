@@ -1,0 +1,45 @@
+{
+  "name": "formik-v2-tutorial-start",
+  "version": "1.0.0",
+  "description": "Starting point of the Formik  v2 Tutorial",
+  "keywords": [
+    "formik-tutorial",
+    "formik"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@chakra-ui/color-mode": "1.1.12",
+    "@chakra-ui/hooks": "1.6.0",
+    "@chakra-ui/icons": "1.0.15",
+    "@chakra-ui/react": "1.6.9",
+    "@chakra-ui/styled-system": "1.12.2",
+    "@chakra-ui/system": "1.7.3",
+    "@chakra-ui/theme": "1.10.3",
+    "@chakra-ui/theme-tools": "1.2.1",
+    "@chakra-ui/utils": "1.8.2",
+    "@emotion/core": "10.0.28",
+    "@emotion/react": "11.4.1",
+    "@emotion/styled": "10.0.27",
+    "formik": "2.1.4",
+    "framer-motion": "4.1.17",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1",
+    "yup": "0.29.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
